@@ -5,6 +5,7 @@ import android.media.MediaPlayer;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 import java.util.Timer;
 import java.util.TimerTask;
@@ -26,8 +27,10 @@ public class Splash extends AppCompatActivity {
         barra.hide();
 
         //Lanzar la cancion
-        cancion = MediaPlayer.create(this,R.raw.cancion);
+
+        cancion= MediaPlayer.create(this,R.raw.cancion);
         cancion.start();
+
 
         //Temporizar la duración del splash
         TimerTask inicioapp = new TimerTask() {
@@ -36,11 +39,14 @@ public class Splash extends AppCompatActivity {
                 //Lanzar una nueva actividad
                 Intent intent = new Intent(Splash.this,MainActivity.class);
                 startActivity(intent);
+                cancion.stop();
             }
         };
 
         Timer tiempo = new Timer();
         tiempo.schedule(inicioapp,10000);
+
+
 
     }
 }
