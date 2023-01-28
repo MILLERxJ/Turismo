@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turistiando</string>
+
+    <string name="opcion1">About me</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+    <string name="opcion4">Italian</string>
+
+    <string name="hotel">Hotel</string>
+    <string name="restaurante">Restaurant</string>
+
+    <string name="informacion">My name is Juan Manuel Muñoz Gómez, I am a student of Software development assistant</string>
+
+    <string name="nombre">Juan Manuel Muñoz Gómez</string>
+    <string name="descripcion"></string>
+
+</resources>

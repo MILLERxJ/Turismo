@@ -4,4 +4,13 @@
     <string name="opcion1">Acerca de</string>
     <string name="opcion2">Ingles</string>
     <string name="opcion3">Español</string>
+    <string name="opcion4">Italiano</string>
+
+    <string name="hotel">Hotel</string>
+    <string name="restaurante">Restaurant</string>
+
+    <string name="informacion">Mi nombre es Juan Manuel Muñoz Gómez, soy estudiante de Asistente en Desarrollo de software</string>
+
+    <string name="nombre">Juan Manuel Muñoz Gómez</string>
+    <string name="descripcion"></string>
 </resources>
