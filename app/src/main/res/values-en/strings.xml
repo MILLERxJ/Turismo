@@ -11,7 +11,10 @@
     <string name="hotel">Hotel</string>
     <string name="restaurante">Restaurant</string>
 
-    <string name="informacion">My name is Juan Manuel Muñoz Gómez, I am a student of Software development assistant</string>
+    <string name="informacion">I am a student of Software development assistant.
+        I also study the engineer in software, i like this world of programming and i would like to know a little bit about almost everything in the programation.
+        My name is Juan Manuel Muñoz Gómez, currently i am 19 yearls young and every challenge is one more.
+    </string>
 
     <string name="nombre">Juan Manuel Muñoz Gómez</string>
     <string name="descripcion"></string>

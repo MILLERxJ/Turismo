@@ -79,4 +79,7 @@ public class MainActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
+
+    //Ir a los hoteles o restaurantes
+    icono
 }

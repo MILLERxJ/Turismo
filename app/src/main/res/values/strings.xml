@@ -7,9 +7,12 @@
     <string name="opcion4">Italiano</string>
 
     <string name="hotel">Hotel</string>
-    <string name="restaurante">Restaurant</string>
+    <string name="restaurante">Restaurante</string>
 
-    <string name="informacion">Mi nombre es Juan Manuel Muñoz Gómez, soy estudiante de Asistente en Desarrollo de software</string>
+    <string name="informacion">Soy estudiante de Asistente en Desarrollo de software.
+        Tambien estudio la ingenieria en software, me gusta este mundo de la programación y me gustaria saber de todo un poco en todos los campos de la programacion.
+    Mi nombre es Juan Manuel Muñoz Gómez, actualmente tengo 19 años y cualquier desafio es un reto de mas.
+    </string>
 
     <string name="nombre">Juan Manuel Muñoz Gómez</string>
     <string name="descripcion"></string>
